@@ -2,6 +2,9 @@ public class Testclass {
 
     public static void reverse(int num) {
 //develop1 code
+
+        System.out.println("change1");
+        System.out.println("change2");
         if (num < 10) {
             System.out.println(num);
         } else {
