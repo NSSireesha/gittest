@@ -8,7 +8,7 @@ public class Test2class {
 
             //System.out.println(str.reverse());
 
-
+//changed as per PR comments
             String str= "halloween";
 
             int len= str.length();
