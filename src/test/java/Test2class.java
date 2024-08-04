@@ -3,7 +3,7 @@ public class Test2class {
 
         public static void main(String[] args) {
 
-
+//newbranch code
             // StringBuffer str= new StringBuffer("halloween");
 
             //System.out.println(str.reverse());
